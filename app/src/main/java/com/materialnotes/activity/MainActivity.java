@@ -12,24 +12,20 @@ import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
-
 import com.materialnotes.R;
 import com.materialnotes.data.Note;
 import com.materialnotes.data.dao.NoteDAO;
 import com.materialnotes.view.ShowHideOnScroll;
 import com.materialnotes.widget.AboutNoticeDialog;
 import com.materialnotes.widget.NotesAdapter;
-
 import com.shamanland.fab.FloatingActionButton;
-
-import java.util.ArrayList;
-
-import javax.inject.Inject;
-
 import roboguice.activity.RoboActionBarActivity;
 import roboguice.inject.ContentView;
 import roboguice.inject.InjectView;
 
+import javax.inject.Inject;
+import java.util.ArrayList;
+//雷枭版权所有，侵权必究
 /**
  * Actividad principal que presenta una lista de notas.
  *
