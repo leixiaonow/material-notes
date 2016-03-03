@@ -27,6 +27,7 @@ import javax.inject.Inject;
 import java.util.ArrayList;
 //雷枭版权所有，侵权必究
 //2016-03-03
+//另一个作者胡俊
 /**
  * Actividad principal que presenta una lista de notas.
  *
